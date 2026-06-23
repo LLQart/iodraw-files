@@ -14,7 +14,7 @@
           <mxGeometry x="150" y="130" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-6" value="早稻曲线&lt;div&gt;3月快速上升-&amp;gt;7月峰值下降&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
-          <mxGeometry x="290" y="50" width="110" height="30" as="geometry" />
+          <mxGeometry x="290" y="40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-7" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="290" y="90" width="110" height="20" as="geometry" />
