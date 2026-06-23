@@ -80,7 +80,7 @@
           <mxGeometry x="190" y="490" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-97" value="边界优化与形态学处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="329" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-98" value="外业核查/人工修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="515" y="490" width="110" height="30" as="geometry" />
@@ -92,13 +92,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-101" value="图斑类型赋值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="326" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="325" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-102" value="属性信息关联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="326" y="640" width="130" height="30" as="geometry" />
+          <mxGeometry x="325" y="640" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-103" value="完美解译图斑成果&lt;div&gt;含地块编码/位置/作物类型/影像信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="316" y="700" width="150" height="60" as="geometry" />
+          <mxGeometry x="315" y="700" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-104" value="边界精确修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="650" y="490" width="110" height="30" as="geometry" />
