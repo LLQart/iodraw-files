@@ -29,22 +29,13 @@
           <mxGeometry x="339" y="430" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-15" value="时序曲线特征库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="150" width="460" height="330" as="geometry" />
+          <mxGeometry x="520" y="150" width="280" height="330" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-16" value="多时项遥感影像序列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-15">
           <mxGeometry x="10" y="165" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-17" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-15">
           <mxGeometry x="150" y="165" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="U-5-46XVcvwtEUMQ8ikw-18" value="早稻曲线&lt;div&gt;3月快速上升-&amp;gt;7月峰值下降&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-15">
-          <mxGeometry x="290" y="40" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="U-5-46XVcvwtEUMQ8ikw-19" value="晚稻曲线&lt;div&gt;7月快速上升-&amp;gt;11月峰值下降&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-15">
-          <mxGeometry x="289" y="100" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="U-5-46XVcvwtEUMQ8ikw-20" value="玉米曲线&lt;div&gt;双峰形态/生育期较长&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-15">
-          <mxGeometry x="289" y="160" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
