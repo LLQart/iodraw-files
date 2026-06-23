@@ -13,8 +13,8 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-91" value="图斑内像元统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-92" value="图斑内像元统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="100" height="30" as="geometry" />
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-92" value="计算各类型像元占比" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
