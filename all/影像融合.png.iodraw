@@ -73,6 +73,9 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-57" value="上采样" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="712" y="266" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-58" target="4EXyrzc9vkpG9ruLw-YG-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-58" value="输出层&lt;div&gt;SoftMax分类&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="780" y="360" width="110" height="40" as="geometry" />
         </mxCell>
