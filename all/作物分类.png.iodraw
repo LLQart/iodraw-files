@@ -24,6 +24,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-91" target="4EXyrzc9vkpG9ruLw-YG-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="230" />
+              <mxPoint x="295" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-91" value="图斑内像元统计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="330" y="184" width="100" height="30" as="geometry" />
         </mxCell>
@@ -37,7 +45,7 @@
           <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-95" value="分析空间分布聚集度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="302" width="110" height="30" as="geometry" />
+          <mxGeometry x="520" y="303" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-96" value="直接赋优势类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="190" y="490" width="110" height="30" as="geometry" />
