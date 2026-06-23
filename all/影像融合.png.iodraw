@@ -17,10 +17,10 @@
           <mxGeometry x="210" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-36" value="池化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="270" width="90" height="30" as="geometry" />
+          <mxGeometry x="270" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-37" value="卷积模块2&lt;div&gt;128通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="110" height="40" as="geometry" />
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-37" value="卷积模块3&lt;div&gt;256通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
