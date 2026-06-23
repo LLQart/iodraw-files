@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="c4wKwr-w8ClsRxMGyKd9">
-    <mxGraphModel dx="1306" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="370" dy="230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,9 +100,6 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-98" target="4EXyrzc9vkpG9ruLw-YG-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-101" target="4EXyrzc9vkpG9ruLw-YG-103">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-101" value="图斑类型赋值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="306" y="566" width="130" height="30" as="geometry" />
         </mxCell>
@@ -114,6 +111,9 @@
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-104" value="边界精确修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="650" y="490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-101" target="4EXyrzc9vkpG9ruLw-YG-102">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
