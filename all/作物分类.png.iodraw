@@ -23,7 +23,7 @@
           <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-95" value="计算分类置信度均值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
-          <mxGeometry x="410" y="260" width="110" height="30" as="geometry" />
+          <mxGeometry x="520" y="290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
