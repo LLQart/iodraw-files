@@ -47,16 +47,16 @@
           <mxGeometry x="571" y="71" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-54" value="解码模块3&lt;br&gt;&lt;div&gt;512通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="670" y="195" width="110" height="40" as="geometry" />
+          <mxGeometry x="670" y="198" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-55" value="上采样" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="649" y="162" width="80" height="20" as="geometry" />
+          <mxGeometry x="649" y="165" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-56" value="解码模块1&lt;br&gt;&lt;div&gt;512通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="745" y="296" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-57" value="上采样" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="705" y="264" width="80" height="20" as="geometry" />
+          <mxGeometry x="705" y="257" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-58" value="解码模块1&lt;br&gt;&lt;div&gt;512通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="795" y="396" width="110" height="40" as="geometry" />
