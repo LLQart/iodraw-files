@@ -22,7 +22,7 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-94" value="决策规则" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-95" value="计算分类置信度均值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-95" value="分析空间分布聚集度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="520" y="290" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
