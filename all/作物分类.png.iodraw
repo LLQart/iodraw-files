@@ -54,7 +54,11 @@
           <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-95" target="4EXyrzc9vkpG9ruLw-YG-94">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="568" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-95" value="分析空间分布聚集度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="513" y="318" width="110" height="30" as="geometry" />
@@ -68,7 +72,7 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-98" value="外业核查/人工修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="515" y="490" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-99" value="外业核查/人工修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-99" value="标记为存疑图斑&lt;div&gt;人工核查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="420" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-98" target="4EXyrzc9vkpG9ruLw-YG-98">
