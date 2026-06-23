@@ -7,6 +7,9 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-1" value="多源遥感数据获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="30" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
