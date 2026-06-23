@@ -79,8 +79,8 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-60" value="作物分类结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
           <mxGeometry x="940" y="360" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-65" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="60" height="30" as="geometry" />
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-65" value="跳跃链接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
