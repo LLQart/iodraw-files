@@ -13,6 +13,12 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-2" value="影像类型判断" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="100" width="125" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-5" value="多源遥感数据获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
