@@ -37,7 +37,7 @@
           <mxGeometry x="440" y="252" width="124.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-12" value="几何配准" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="262.75" y="340" width="124.5" height="40" as="geometry" />
+          <mxGeometry x="259.75" y="340" width="124.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.373;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-10" target="4EXyrzc9vkpG9ruLw-YG-5">
           <mxGeometry relative="1" as="geometry">
@@ -67,6 +67,13 @@
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-21" value="高精度作物分类结果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="365.5" y="740" width="124.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-5" target="4EXyrzc9vkpG9ruLw-YG-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-5" value="辐射定标与大气校正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="90" y="252" width="124.5" height="40" as="geometry" />
