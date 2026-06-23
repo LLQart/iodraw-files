@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="370" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-32" value="卷积模块1&lt;div&gt;64通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="60" y="310" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-34" value="池化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="90" height="30" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="310" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-38" value="池化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="90" height="30" as="geometry" />
+          <mxGeometry x="360" y="60" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-39" value="卷积模块3&lt;div&gt;256通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="110" height="40" as="geometry" />
+          <mxGeometry x="400" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
