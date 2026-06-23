@@ -32,10 +32,10 @@
           <mxGeometry x="330" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-98" value="外业核查/人工修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="480" y="490" width="110" height="30" as="geometry" />
+          <mxGeometry x="515" y="490" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-99" value="外业核查/人工修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="510" y="420" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-98" target="4EXyrzc9vkpG9ruLw-YG-98">
           <mxGeometry relative="1" as="geometry" />
