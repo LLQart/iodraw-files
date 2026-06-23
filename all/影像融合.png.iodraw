@@ -7,6 +7,9 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-1" value="输入影像&lt;div&gt;多波段+时序特征&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-32" target="4EXyrzc9vkpG9ruLw-YG-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-32" value="卷积模块1&lt;div&gt;64通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="60" y="310" width="110" height="40" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry x="649" y="165" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-56" value="解码模块4&lt;br&gt;&lt;div&gt;64通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="745" y="296" width="110" height="40" as="geometry" />
+          <mxGeometry x="745" y="309" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-57" value="上采样" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="705" y="257" width="80" height="20" as="geometry" />
