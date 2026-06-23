@@ -8,7 +8,10 @@
           <mxGeometry x="50" y="150" width="440" height="240" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-4" value="多时项遥感影像序列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
-          <mxGeometry x="10" y="130" width="80" height="20" as="geometry" />
+          <mxGeometry x="10" y="130" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-5-46XVcvwtEUMQ8ikw-5" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
+          <mxGeometry x="140" y="130" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
