@@ -79,8 +79,11 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-95" value="分析空间分布聚集度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="513" y="318" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-96" value="直接赋优势类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-96" value="直接赋优势类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="146" y="490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-97" target="4EXyrzc9vkpG9ruLw-YG-101">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-97" value="边界优化与形态学处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="306" y="490" width="130" height="30" as="geometry" />
@@ -97,8 +100,8 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-98" target="4EXyrzc9vkpG9ruLw-YG-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-101" value="图斑类型赋值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="302" y="570" width="130" height="30" as="geometry" />
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-101" value="图斑类型赋值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="302" y="571" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-102" value="属性信息关联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="302" y="640" width="130" height="30" as="geometry" />
