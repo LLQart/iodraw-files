@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-1" value="多源遥感数据获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-1" value="输入影像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
