@@ -22,6 +22,12 @@
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-8" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="290" y="130" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="U-5-46XVcvwtEUMQ8ikw-9" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
+          <mxGeometry x="290" y="170" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-5-46XVcvwtEUMQ8ikw-10" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
+          <mxGeometry x="290" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
