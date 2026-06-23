@@ -13,6 +13,16 @@
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-4" value="多时项遥感影像序列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="10" y="165" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="U-5-46XVcvwtEUMQ8ikw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="U-5-46XVcvwtEUMQ8ikw-3" source="U-5-46XVcvwtEUMQ8ikw-5" target="U-5-46XVcvwtEUMQ8ikw-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="180" />
+              <mxPoint x="270" y="145" />
+              <mxPoint x="269" y="145" />
+              <mxPoint x="269" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-5" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="150" y="165" width="110" height="30" as="geometry" />
         </mxCell>
@@ -24,6 +34,9 @@
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-12" value="玉米曲线&lt;div&gt;双峰形态/生育期较长&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="289" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U-5-46XVcvwtEUMQ8ikw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.016;entryY=0.51;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="U-5-46XVcvwtEUMQ8ikw-3" source="U-5-46XVcvwtEUMQ8ikw-5" target="U-5-46XVcvwtEUMQ8ikw-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-13" value="甘蔗曲线&lt;div&gt;全年高值/波动平缓&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="370" width="150" height="40" as="geometry" />
