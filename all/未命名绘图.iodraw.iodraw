@@ -7,7 +7,7 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-1" value="多源遥感数据获取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="30" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-2" value="影像类型判断" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-2" value="影像类型判断" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="100" width="125" height="130" as="geometry" />
         </mxCell>
       </root>
