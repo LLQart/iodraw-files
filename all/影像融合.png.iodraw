@@ -155,12 +155,11 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-56" value="解码模块4&lt;br&gt;&lt;div&gt;64通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="747" y="310" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-57" target="4EXyrzc9vkpG9ruLw-YG-56">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-57" target="4EXyrzc9vkpG9ruLw-YG-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="752" y="290" />
               <mxPoint x="800" y="290" />
-              <mxPoint x="800" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -219,6 +218,9 @@
               <mxPoint x="731" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-56" target="4EXyrzc9vkpG9ruLw-YG-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
