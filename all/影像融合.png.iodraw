@@ -13,6 +13,12 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-35" value="卷积模块2&lt;div&gt;128通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="119" as="sourcePoint" />
+            <mxPoint x="600" y="126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-37" value="卷积模块3&lt;div&gt;256通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="230" y="100" width="110" height="40" as="geometry" />
         </mxCell>
@@ -44,7 +50,7 @@
           <mxGeometry x="485" y="-19" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-52" value="解码模块2&lt;br&gt;&lt;div&gt;256通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="600" y="107" width="110" height="40" as="geometry" />
+          <mxGeometry x="610" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-53" value="上采样" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="571" y="71" width="80" height="20" as="geometry" />
