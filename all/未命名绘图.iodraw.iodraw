@@ -34,8 +34,8 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-10" value="DEM数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="440" y="252" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-12" value="辐射定标与地形校正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="270" y="262" width="124.5" height="40" as="geometry" />
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-12" value="几何配准" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="262.75" y="340" width="124.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
