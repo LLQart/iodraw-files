@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-3" value="时序曲线特征库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="150" width="460" height="240" as="geometry" />
+          <mxGeometry x="50" y="150" width="460" height="300" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-4" value="多时项遥感影像序列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
-          <mxGeometry x="10" y="130" width="110" height="20" as="geometry" />
+          <mxGeometry x="10" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-5" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
-          <mxGeometry x="150" y="130" width="110" height="20" as="geometry" />
+          <mxGeometry x="150" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-6" value="早稻曲线&lt;div&gt;3月快速上升-&amp;gt;7月峰值下降&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="290" y="40" width="150" height="40" as="geometry" />
