@@ -57,7 +57,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-94" target="4EXyrzc9vkpG9ruLw-YG-99">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="435" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-94" value="决策规则" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="330" y="340" width="80" height="80" as="geometry" />
@@ -88,13 +92,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-101" value="图斑类型赋值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="350" y="570" width="130" height="30" as="geometry" />
+          <mxGeometry x="326" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-102" value="属性信息关联" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="350" y="640" width="130" height="30" as="geometry" />
+          <mxGeometry x="326" y="640" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-103" value="完美解译图斑成果&lt;div&gt;含地块编码/位置/作物类型/影像信息&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="700" width="150" height="60" as="geometry" />
+          <mxGeometry x="316" y="700" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-104" value="边界精确修正" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="650" y="490" width="110" height="30" as="geometry" />
