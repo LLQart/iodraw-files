@@ -94,7 +94,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-97" value="边界优化与形态学处理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="306" y="490" width="130" height="30" as="geometry" />
+          <mxGeometry x="305" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-98" target="4EXyrzc9vkpG9ruLw-YG-101">
           <mxGeometry relative="1" as="geometry">
@@ -117,7 +117,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-101" value="图斑类型赋值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="306" y="573" width="130" height="30" as="geometry" />
+          <mxGeometry x="305" y="573" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-102" target="4EXyrzc9vkpG9ruLw-YG-103">
           <mxGeometry relative="1" as="geometry" />
