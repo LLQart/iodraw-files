@@ -89,12 +89,11 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-44" value="瓶颈层&lt;br&gt;&lt;div&gt;1024通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
           <mxGeometry x="390" y="-79" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-45" target="4EXyrzc9vkpG9ruLw-YG-53">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-45" target="4EXyrzc9vkpG9ruLw-YG-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="60" />
               <mxPoint x="610" y="60" />
-              <mxPoint x="610" y="71" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,6 +129,9 @@
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-52" value="解码模块2&lt;br&gt;&lt;div&gt;256通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="610" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EXyrzc9vkpG9ruLw-YG-53" target="4EXyrzc9vkpG9ruLw-YG-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-53" value="上采样" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="571" y="71" width="80" height="20" as="geometry" />
