@@ -56,7 +56,7 @@
         <mxCell id="4EXyrzc9vkpG9ruLw-YG-17" value="特征提取与融合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="370" y="500" width="124.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EXyrzc9vkpG9ruLw-YG-18" value="光学特征：" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="4EXyrzc9vkpG9ruLw-YG-18" value="光学特征：光谱特征/植被指数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="241" y="600" width="124.5" height="40" as="geometry" />
         </mxCell>
       </root>
