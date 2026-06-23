@@ -13,7 +13,7 @@
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-5" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="150" y="130" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U-5-46XVcvwtEUMQ8ikw-6" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
+        <mxCell id="U-5-46XVcvwtEUMQ8ikw-6" value="早稻曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
           <mxGeometry x="290" y="50" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U-5-46XVcvwtEUMQ8ikw-7" value="NDVI时序曲线提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U-5-46XVcvwtEUMQ8ikw-3">
