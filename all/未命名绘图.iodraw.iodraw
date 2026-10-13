@@ -16,8 +16,8 @@
         <mxCell id="EGL3eb09nu7bVlq3SEq4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="400" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EGL3eb09nu7bVlq3SEq4-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;SAR数据获取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="140" height="30" as="geometry" />
+        <mxCell id="EGL3eb09nu7bVlq3SEq4-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;形变起始参考点选择&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
