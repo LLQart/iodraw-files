@@ -194,10 +194,7 @@
         <mxCell id="EGL3eb09nu7bVlq3SEq4-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;工作报告&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="723" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EGL3eb09nu7bVlq3SEq4-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGL3eb09nu7bVlq3SEq4-39" target="EGL3eb09nu7bVlq3SEq4-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EGL3eb09nu7bVlq3SEq4-39" value="资料收集" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="EGL3eb09nu7bVlq3SEq4-39" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;资料收集&lt;/font&gt;" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="110" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EGL3eb09nu7bVlq3SEq4-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;参考点选择&lt;/font&gt;" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
@@ -211,9 +208,6 @@
         </mxCell>
         <mxCell id="EGL3eb09nu7bVlq3SEq4-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;成果编制&lt;/font&gt;" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="670" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EGL3eb09nu7bVlq3SEq4-52" value="资料收集" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="110" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
