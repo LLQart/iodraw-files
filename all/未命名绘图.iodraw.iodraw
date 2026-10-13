@@ -206,6 +206,11 @@
         <mxCell id="EGL3eb09nu7bVlq3SEq4-44" value="质量检查和结果分析" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="530.75" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EGL3eb09nu7bVlq3SEq4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGL3eb09nu7bVlq3SEq4-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EGL3eb09nu7bVlq3SEq4-45" value="成果编制" style="strokeWidth=0.6;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="670" width="60" height="60" as="geometry" />
         </mxCell>
