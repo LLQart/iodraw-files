@@ -107,6 +107,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EGL3eb09nu7bVlq3SEq4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EGL3eb09nu7bVlq3SEq4-15" target="EGL3eb09nu7bVlq3SEq4-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="540" />
+              <mxPoint x="515" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EGL3eb09nu7bVlq3SEq4-15" value="地表形变监测结果" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="470" width="180" height="30" as="geometry" />
         </mxCell>
